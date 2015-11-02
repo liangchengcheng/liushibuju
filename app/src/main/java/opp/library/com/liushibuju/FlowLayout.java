@@ -37,7 +37,7 @@ public class FlowLayout extends ViewGroup {
         int sizeHeight = MeasureSpec.getSize(heightMeasureSpec);
         int modeHeight = MeasureSpec.getMode(heightMeasureSpec);
 
-        //wrap_content
+        //wrap_content 
         int width = 0;
         int height = 0;
         //记录每一行的看度和高度
